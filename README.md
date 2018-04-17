@@ -1,1 +1,1 @@
-##移动端的多图上传插件
+##m-multipleUploadImg
